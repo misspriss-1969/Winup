@@ -214,4 +214,4 @@ Winup is available as a **full free version** with **all features and updates in
 Start optimizing your Windows XP experience today! Download Winup and enjoy seamless updates with all features included!
 
 ---
-**Last updated:** 2026-11-05 13:33:02 UTC
+**Last updated:** 2026-11-05 20:50:43 UTC
